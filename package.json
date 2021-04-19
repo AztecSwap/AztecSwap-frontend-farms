@@ -37,7 +37,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "@pancakeswap-libs/uikit": "koaladefi/uikit#releases_refresh",
+    "@pancakeswap-libs/uikit": "AztecSwap/Aztec-uikit#releases_refresh",
     "@reduxjs/toolkit": "^1.5.0",
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",

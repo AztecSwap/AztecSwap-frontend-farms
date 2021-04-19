@@ -2047,9 +2047,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@koaladefi/uikit#releases_refresh":
+"@pancakeswap-libs/uikit@AztecSwap/Aztec-uikit#releases_refresh":
   version "0.13.1"
-  resolved "https://codeload.github.com/koaladefi/uikit/tar.gz/29bb9a948df27e1dded5d559d4e19061bb0b52b3"
+  resolved "https://codeload.github.com/AztecSwap/Aztec-uikit/tar.gz/debbff9d2543498733f6ae38c7bd61581c85f936"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -2618,9 +2618,9 @@
     csstype "^3.0.2"
 
 "@types/styled-system@^5.1.10":
-  version "5.1.10"
-  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.10.tgz#dcf5690dd837ca49b8de1f23cb99d510c7f4ecb3"
-  integrity sha512-OmVjC9OzyUckAgdavJBc+t5oCJrNXTlzWl9vo2x47leqpX1REq2qJC49SEtzbu1OnWSzcD68Uq3Aj8TeX+Kvtg==
+  version "5.1.11"
+  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.11.tgz#158849f3b14cdf8bf27a10f0cf87a2c3a89eb680"
+  integrity sha512-R+JxEZYa5T0HD2urViR/mdklVaGhwbNOtDoWWGQ1+z1CGs/gF1UAKCaS//YwsUwterEKpyaKxgaXyFNKF04GCA==
   dependencies:
     csstype "^3.0.2"
 
