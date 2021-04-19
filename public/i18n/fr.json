@@ -1,0 +1,1358 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 23,
+        "text": "Liquidité totale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 278,
+        "text": "Ferme"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "Exchange"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "Docs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "Voting"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "Lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "Déverrouiller le portefeuille"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "Votre solde de %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "Offre totale de %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "BLOQUE"
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "En attente de récolte"
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "Nouvelles récompenses par bloc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "Total de LYPTUS brûlé depuis le lancement"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "See the Kitchen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "Blog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "Déposer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "Gagner"
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "Déposez vos LP pour gagner des LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "Stake Lyptus, get SYRUP."
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "Vous pouvez revenir à tout moment"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "%asset% gagné(s)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "Tokens déposés"
+      }
+    },
+    {
+      "data": {
+        "stringId": 334,
+        "text": "Chaque fois que vous déposez et retirez des LYPTUS, le contrat récoltera automatiquement les récompenses LYPTUS pour vous!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 338,
+        "text": "The Sous Chef is cooking up a treat for all SYRUP holders"
+      }
+    },
+    {
+      "data": {
+        "stringId": 340,
+        "text": "SYRUP Tokens Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 342,
+        "text": "XVS Tokens Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 344,
+        "text": "Stake your SYRUP to earn tokens of new projects."
+      }
+    },
+    {
+      "data": {
+        "stringId": 346,
+        "text": "Les récompenses seront calculées par bloc et le total des récompenses sera distribué automatiquement à la fin de la période agricole de chaque projet."
+      }
+    },
+    {
+      "data": {
+        "stringId": 348,
+        "text": "Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 350,
+        "text": "A venir"
+      }
+    },
+    {
+      "data": {
+        "stringId": 352,
+        "text": "APR"
+      }
+    },
+    {
+      "data": {
+        "stringId": 354,
+        "text": "Liquidité totale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 356,
+        "text": "Voir sur BscScan"
+      }
+    },
+    {
+      "data": {
+        "stringId": 358,
+        "text": "Prix du Lyptus"
+      }
+    },
+    {
+      "data": {
+        "stringId": 360,
+        "text": "%asset% Tokens gagnés"
+      }
+    },
+    {
+      "data": {
+        "stringId": 362,
+        "text": "%num% blocs jusqu'à la fin de l'agriculture"
+      }
+    },
+    {
+      "data": {
+        "stringId": 364,
+        "text": "Total Syrup Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 380,
+        "text": "1 LYPTUS = 1 SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 382,
+        "text": "A venir..."
+      }
+    },
+    {
+      "data": {
+        "stringId": 384,
+        "text": "Votre dépôt"
+      }
+    },
+    {
+      "data": {
+        "stringId": 386,
+        "text": "L'agriculture commence dans %num% blocs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 388,
+        "text": "Terminé"
+      }
+    },
+    {
+      "data": {
+        "stringId": 390,
+        "text": "L'agriculture termine dans %num% blocs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 392,
+        "text": "Site du projet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 394,
+        "text": "Unstake SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 400,
+        "text": "SYRUP holders proportionally split 25% of LYPTUS block emissions each day (10 LYPTUS per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 402,
+        "text": "Stake SYRUP to earn new tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 406,
+        "text": "Les récompenses sont calculées par bloc."
+      }
+    },
+    {
+      "data": {
+        "stringId": 408,
+        "text": "Total"
+      }
+    },
+    {
+      "data": {
+        "stringId": 410,
+        "text": "Fin"
+      }
+    },
+    {
+      "data": {
+        "stringId": 412,
+        "text": "Voir le site du projet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 414,
+        "text": "Votre projet? \ud83d\udc40"
+      }
+    },
+    {
+      "data": {
+        "stringId": 416,
+        "text": "Create a pool for your token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 418,
+        "text": "Apply now"
+      }
+    },
+    {
+      "data": {
+        "stringId": 420,
+        "text": "Phase 1: BUYING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 424,
+        "text": "%num% LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 426,
+        "text": "Spend LYPTUS to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 428,
+        "text": "Your total tickets for this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 430,
+        "text": "Buy ticket"
+      }
+    },
+    {
+      "data": {
+        "stringId": 432,
+        "text": "View your tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 434,
+        "text": "Approx. time left to buy tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 438,
+        "text": "Close"
+      }
+    },
+    {
+      "data": {
+        "stringId": 440,
+        "text": "Latest Winning Numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 442,
+        "text": "Tickets matching 4 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 444,
+        "text": "Tickets matching 3 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 446,
+        "text": "Tickets matching 2 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 448,
+        "text": "Export recent winning numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 450,
+        "text": "Enter amount of tickets to buy"
+      }
+    },
+    {
+      "data": {
+        "stringId": 452,
+        "text": "Max"
+      }
+    },
+    {
+      "data": {
+        "stringId": 454,
+        "text": "%num% LYPTUS Available"
+      }
+    },
+    {
+      "data": {
+        "stringId": 456,
+        "text": "Your amount must be a multiple of 10 LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 458,
+        "text": "1 Ticket = 10 LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 462,
+        "text": "Cancel"
+      }
+    },
+    {
+      "data": {
+        "stringId": 464,
+        "text": "Confirm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 466,
+        "text": "Warning"
+      }
+    },
+    {
+      "data": {
+        "stringId": 468,
+        "text": "Lottery ticket purchases are final."
+      }
+    },
+    {
+      "data": {
+        "stringId": 472,
+        "text": "Tickets are only valid for one lottery draw, and will be burned after the draw."
+      }
+    },
+    {
+      "data": {
+        "stringId": 474,
+        "text": "Buying tickets does not guarantee you will win anything. Please only participate once you understand the risks."
+      }
+    },
+    {
+      "data": {
+        "stringId": 476,
+        "text": "I understand"
+      }
+    },
+    {
+      "data": {
+        "stringId": 478,
+        "text": "Ticket purchases are final. Your LYPTUS cannot be returned to you after buying tickets."
+      }
+    },
+    {
+      "data": {
+        "stringId": 480,
+        "text": "Claim prizes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 482,
+        "text": "LYPTUS prizes to be claimed"
+      }
+    },
+    {
+      "data": {
+        "stringId": 484,
+        "text": "Phase 2: CLAIMING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 486,
+        "text": "Vous pouvez retirer à tout moment"
+      }
+    },
+    {
+      "data": {
+        "stringId": 488,
+        "text": "Pending Confirmation"
+      }
+    },
+    {
+      "data": {
+        "stringId": 490,
+        "text": "My Tickets (Total: %TICKETS%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 492,
+        "text": "Approx. time before next lottery start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 494,
+        "text": "Approve LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 496,
+        "text": "SYRUP holders proportionally split 40% of LYPTUS block emissions each day (10 LYPTUS per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 500,
+        "text": "IFO: Initial Farm Offerings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 502,
+        "text": "Buy new tokens with a brand new token sale model."
+      }
+    },
+    {
+      "data": {
+        "stringId": 504,
+        "text": "You\u2019ll pay for the new tokens using LYPTUS-BNB LP tokens, which means you need to stake equal amounts of LYPTUS and BNB in a liquidity pool to take part."
+      }
+    },
+    {
+      "data": {
+        "stringId": 506,
+        "text": "Get LYPTUS-BNB LP >"
+      }
+    },
+    {
+      "data": {
+        "stringId": 508,
+        "text": "The project gets the BNB, Koala DeFi Finance burns the LYPTUS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 510,
+        "text": "You get the tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 512,
+        "text": "Want to launch your own IFO?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 514,
+        "text": "Launch your project with Koala DeFi Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+      }
+    },
+    {
+      "data": {
+        "stringId": 516,
+        "text": "Apply to launch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 520,
+        "text": "Community"
+      }
+    },
+    {
+      "data": {
+        "stringId": 522,
+        "text": "Core"
+      }
+    },
+    {
+      "data": {
+        "stringId": 526,
+        "text": "Available"
+      }
+    },
+    {
+      "data": {
+        "stringId": 528,
+        "text": "My Wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 530,
+        "text": "Sign out"
+      }
+    },
+    {
+      "data": {
+        "stringId": 532,
+        "text": "Tout récolter (%count%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 534,
+        "text": "Lyptus Stats"
+      }
+    },
+    {
+      "data": {
+        "stringId": 536,
+        "text": "Offre totale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 538,
+        "text": "Total déjà mangé"
+      }
+    },
+    {
+      "data": {
+        "stringId": 540,
+        "text": "Nouveau LYPTUS\/bloc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 542,
+        "text": "Fermes et dépôts"
+      }
+    },
+    {
+      "data": {
+        "stringId": 544,
+        "text": "LYPTUS à récolter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 546,
+        "text": "LYPTUS en portefeuille"
+      }
+    },
+    {
+      "data": {
+        "stringId": 548,
+        "text": "Récolter les LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 550,
+        "text": "Your Lottery Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 552,
+        "text": "LYPTUS à récolter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 554,
+        "text": "Total jackpot this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 556,
+        "text": "Collect Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 558,
+        "text": "Buy Tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 562,
+        "text": "Récolter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 564,
+        "text": "Approuver"
+      }
+    },
+    {
+      "data": {
+        "stringId": 568,
+        "text": "Sélectionner"
+      }
+    },
+    {
+      "data": {
+        "stringId": 570,
+        "text": "Winning Numbers This Round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 574,
+        "text": "Staking Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 576,
+        "text": "Koala DeFi Finance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 578,
+        "text": "Ferme BSC à haut rendement apportée par les Koalas."
+      }
+    },
+    {
+      "data": {
+        "stringId": 580,
+        "text": "Déposer des LYPTUS pour en gagner d'autres."
+      }
+    },
+    {
+      "data": {
+        "stringId": 582,
+        "text": "Launch Time"
+      }
+    },
+    {
+      "data": {
+        "stringId": 584,
+        "text": "For Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 586,
+        "text": "LYPTUS à bruler (USD)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 588,
+        "text": "Retirer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 590,
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest LYPTUS rewards for you!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 592,
+        "text": "How to take part"
+      }
+    },
+    {
+      "data": {
+        "stringId": 594,
+        "text": "Before Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 596,
+        "text": "Buy LYPTUS and BNB tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 598,
+        "text": "Get LYPTUS-BNB LP tokens by adding LYPTUS and BNB liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 600,
+        "text": "During Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 602,
+        "text": "While the sale is live, commit your LYPTUS-LP tokens to buy the IFO tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 604,
+        "text": "After Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 606,
+        "text": "Claim the tokens you purchased, along with any unspent funds."
+      }
+    },
+    {
+      "data": {
+        "stringId": 608,
+        "text": "Done!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 610,
+        "text": "Voir plus"
+      }
+    },
+    {
+      "data": {
+        "stringId": 612,
+        "text": "Connecter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 614,
+        "text": "Trade in for LYPTUS, or keep for your collection!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 616,
+        "text": "Register your interest in winning an NFT below."
+      }
+    },
+    {
+      "data": {
+        "stringId": 618,
+        "text": "Register for a chance to win"
+      }
+    },
+    {
+      "data": {
+        "stringId": 620,
+        "text": "Learn more"
+      }
+    },
+    {
+      "data": {
+        "stringId": 622,
+        "text": "Trade in NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 624,
+        "text": "Trade in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 626,
+        "text": "You will receive"
+      }
+    },
+    {
+      "data": {
+        "stringId": 628,
+        "text": "When you trade in this NFT to receive LYPTUS, you will lose access to it forever!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 630,
+        "text": "Claim NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 632,
+        "text": "How it works"
+      }
+    },
+    {
+      "data": {
+        "stringId": 634,
+        "text": "Winners will be able to claim an NFT on this page once the claiming period starts."
+      }
+    },
+    {
+      "data": {
+        "stringId": 636,
+        "text": "If you are not selected, you won\u2019t be able to claim. Better luck next time!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 638,
+        "text": "Winners can trade in their NFTs for a LYPTUS value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 640,
+        "text": "How are winners selected?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 642,
+        "text": "Winners are selected at random! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 646,
+        "text": "Value if traded in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 648,
+        "text": "Number minted"
+      }
+    },
+    {
+      "data": {
+        "stringId": 650,
+        "text": "Number burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 652,
+        "text": "Claim this NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 654,
+        "text": "Trade in for LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 656,
+        "text": "Loading\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 658,
+        "text": "Détails"
+      }
+    },
+    {
+      "data": {
+        "stringId": 660,
+        "text": "You won!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 662,
+        "text": "Claim an NFT from the options below!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 664,
+        "text": "Can be traded until"
+      }
+    },
+    {
+      "data": {
+        "stringId": 666,
+        "text": "Portfeuille déconnecté"
+      }
+    },
+    {
+      "data": {
+        "stringId": 668,
+        "text": "Connect to see if you have won an NFT!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 670,
+        "text": "Home"
+      }
+    },
+    {
+      "data": {
+        "stringId": 672,
+        "text": "Trade"
+      }
+    },
+    {
+      "data": {
+        "stringId": 674,
+        "text": "Farms"
+      }
+    },
+    {
+      "data": {
+        "stringId": 676,
+        "text": "Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 678,
+        "text": "NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 680,
+        "text": "Info"
+      }
+    },
+    {
+      "data": {
+        "stringId": 682,
+        "text": "IFO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 684,
+        "text": "More"
+      }
+    },
+    {
+      "data": {
+        "stringId": 686,
+        "text": "Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 688,
+        "text": "Overview"
+      }
+    },
+    {
+      "data": {
+        "stringId": 690,
+        "text": "Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 692,
+        "text": "Pairs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 694,
+        "text": "Accounts"
+      }
+    },
+    {
+      "data": {
+        "stringId": 696,
+        "text": "Stake LP tokens to earn LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 698,
+        "text": "Active"
+      }
+    },
+    {
+      "data": {
+        "stringId": 700,
+        "text": "Inactive"
+      }
+    },
+    {
+      "data": {
+        "stringId": 702,
+        "text": "Dual"
+      }
+    },
+    {
+      "data": {
+        "stringId": 704,
+        "text": "Récolter et redéposer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 706,
+        "text": "Retirer %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 708,
+        "text": "The LYPTUS Lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 710,
+        "text": "Buy tickets with LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 712,
+        "text": "Win if 2, 3 or 4 of your ticket numbers match!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 716,
+        "text": "Next draw"
+      }
+    },
+    {
+      "data": {
+        "stringId": 718,
+        "text": "Past draws"
+      }
+    },
+    {
+      "data": {
+        "stringId": 720,
+        "text": "Round %num%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 722,
+        "text": "Total Pot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 724,
+        "text": "Your tickets for this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 726,
+        "text": "Sorry, no prizes to collect"
+      }
+    },
+    {
+      "data": {
+        "stringId": 728,
+        "text": "En portefeuille"
+      }
+    },
+    {
+      "data": {
+        "stringId": 729,
+        "text": "Gagné(s)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 730,
+        "text": "Déposé(s)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 731,
+        "text": "Valeur total vérouillée (TVL)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 732,
+        "text": "Dans toutes les fermes, pools et bushs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 733,
+        "text": "Achetez"
+      }
+    },
+    {
+      "data": {
+        "stringId": 734,
+        "text": "du $LYPTUS maintenant!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 735,
+        "text": "DEPOSER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 736,
+        "text": "Déposer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 737,
+        "text": "COMMENCER A FARMER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 738,
+        "text": "DEPOSÉ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 739,
+        "text": "GAGNÉ"
+      }
+    },
+    {
+      "data": {
+        "stringId": 740,
+        "text": "ACTIVER LE FARMING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 741,
+        "text": "Activer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 742,
+        "text": "Les frais de dépôt seront automatiquement mangés (brûlés)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 743,
+        "text": "En savoir plus sur le Bush (en)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 1068,
+        "text": "Déposer"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10000,
+        "text": "Les frais de dépôt seront utilisés pour racheter des LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10001,
+        "text": "Frais de dépôt"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10002,
+        "text": "Déposer vos tokens pour gagner des LYPTUS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10003,
+        "text": "Annonces"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10004,
+        "text": "Token en circulation"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10005,
+        "text": "Market Cap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10006,
+        "text": "En savoir plus sur notre mécanisme de brûlage et notre agriculture payante"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10007,
+        "text": "Nombre de token brulés"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
