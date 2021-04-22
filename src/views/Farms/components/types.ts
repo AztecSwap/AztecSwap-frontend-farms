@@ -40,7 +40,7 @@ export const MobileColumnSchema = [
   },
   {
     id: 2,
-    bold: 'LYPTUS',
+    bold: 'GOLD',
     normal: 'EARNED',
     name: 'earned',
     translationId: 999,
@@ -75,7 +75,7 @@ export const DesktopColumnSchema: ColumnsDefTypes[] = [
   },
   {
     id: 2,
-    bold: 'LYPTUS',
+    bold: 'GOLD',
     normal: 'EARNED',
     name: 'earned',
     translationId: 999,

@@ -34,6 +34,7 @@ export enum QuoteToken {
   'ETH' = 'ETH',
   'COMP' = 'COMP',
   'SUSHI' = 'SUSHI',
+  'GOLD' = 'GOLD',
   'LYPTUS' = 'LYPTUS',
 }
 

@@ -130,7 +130,7 @@ const Bush: React.FC = () => {
         </Heading>
         <Heading size="md" color="text">
           <ul>
-            <li>{TranslateString(580, 'Stake LYPTUS to earn new tokens.')}</li>
+            <li>{TranslateString(580, 'Stake GOLD to earn new tokens.')}</li>
             <li>{TranslateString(486, 'You can unstake at any time.')}</li>
             <li>{TranslateString(406, 'Rewards are calculated per block.')}</li>
             <li>{TranslateString(742, 'Deposit fees will be automatically eaten (burnt)')}</li>

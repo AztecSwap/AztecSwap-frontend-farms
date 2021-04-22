@@ -5,45 +5,45 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'LYPTUS',
+    lpSymbol: 'GOLD',
     lpAddresses: {
       97: '',
-      56: '0x78D2616171c75FE9338BA26e0a8099272dd0bE92', // LYPTUS-BUSD LP
+      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // GOLD-BUSD LP
     },
-    tokenSymbol: 'LYPTUS',
+    tokenSymbol: 'GOLD',
     tokenAddresses: {
       97: '',
-      56: '0xba26397cdff25f0d26e815d218ef3c77609ae7f1',
+      56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
   {
     pid: 1,
-    lpSymbol: 'LYPTUS-BUSD LP',
+    lpSymbol: 'GOLD-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x78D2616171c75FE9338BA26e0a8099272dd0bE92',
+      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // GOLD-BUSD LP
     },
-    tokenSymbol: 'LYPTUS',
+    tokenSymbol: 'GOLD',
     tokenAddresses: {
       97: '',
-      56: '0xba26397cdff25f0d26e815d218ef3c77609ae7f1',
+      56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
   {
     pid: 2,
-    lpSymbol: 'LYPTUS-BNB LP',
+    lpSymbol: 'GOLD-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x6a03c70EC13475928e6238bBefD695AA660A1632',
+      56: '0xa040492a50f0034894eb6df0a4d6c8ac33b92cfd', // GOLD-BNB LP
     },
-    tokenSymbol: 'LYPTUS',
+    tokenSymbol: 'GOLD',
     tokenAddresses: {
       97: '',
-      56: '0xba26397cdff25f0d26e815d218ef3c77609ae7f1',
+      56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,

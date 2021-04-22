@@ -38,14 +38,14 @@ const CakeStats = () => {
   const totalSupply = useTotalSupply()
   const burnedBalance = useBurnedBalance(getCakeAddress())
   const farms = useFarms()
-  const lyptusPrice = usePriceCakeBusd()
+  const goldPrice = usePriceCakeBusd()
   const circSupply = totalSupply ? totalSupply.minus(burnedBalance) : new BigNumber(0)
   const cakeSupply = getBalanceNumber(circSupply)
-  const marketCap = lyptusPrice.times(circSupply)
+  const marketCap = goldPrice.times(circSupply)
 
-  let lyptusPerBlock = 0
-  if (farms && farms[0] && farms[0].lyptusPerBlock) {
-    lyptusPerBlock = new BigNumber(farms[0].lyptusPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let goldPerBlock = 0
+  if (farms && farms[0] && farms[0].goldPerBlock) {
+    goldPerBlock = new BigNumber(farms[0].goldPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
@@ -90,7 +90,7 @@ const CakeStats = () => {
         <Row>
           <Text fontSize="14px">New Gold/block</Text>
           <Text bold fontSize="14px">
-            {lyptusPerBlock}
+            {goldPerBlock}
           </Text>
         </Row>
       </CardBody>

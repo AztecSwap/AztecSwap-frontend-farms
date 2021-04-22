@@ -16,7 +16,7 @@
     "inputs": [
       {
         "internalType": "contract IBEP20",
-        "name": "_lyptus",
+        "name": "_gold",
         "type": "address"
       },
       {
@@ -318,7 +318,7 @@
   },
   {
     "inputs": [],
-    "name": "lyptus",
+    "name": "gold",
     "outputs": [
       {
         "internalType": "contract IBEP20",
@@ -388,7 +388,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accLyptusPerShare",
+        "name": "accGoldPerShare",
         "type": "uint256"
       },
       {

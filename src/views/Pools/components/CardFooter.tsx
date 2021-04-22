@@ -102,7 +102,7 @@ const CardFooter: React.FC<Props> = ({
           <Row style={{ marginBottom: '4px' }}>
             <FlexFull>
               <Label>
-                <img src="/images/farms/lyptus.png" alt="LYPTUS Token" width="15" height="15" />{' '}
+                <img src="/images/farms/gold.png" alt="GOLD Token" width="15" height="15" />{' '}
                 {TranslateString(408, 'Total')}
               </Label>
             </FlexFull>
