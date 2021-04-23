@@ -2049,7 +2049,7 @@
 
 "@pancakeswap-libs/uikit@AztecSwap/Aztec-uikit#releases_refresh":
   version "0.13.1"
-  resolved "https://codeload.github.com/AztecSwap/Aztec-uikit/tar.gz/65a26e588815a4ced4fb8d23949002fb6b22aae3"
+  resolved "https://codeload.github.com/AztecSwap/Aztec-uikit/tar.gz/f569bfc5e8d77e44d88492f759742bc4b412f82c"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
