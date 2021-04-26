@@ -142,6 +142,51 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
   },
+  {
+    pid: 9,
+    lpSymbol: 'TSB-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0x14f18e33c9e4551578cc4ce5243184288f13fe67', // TSB-BNB LP
+    },
+    tokenSymbol: 'TSB',
+    tokenAddresses: {
+      97: '',
+      56: '0xA37F71f092F891757d23Dd350f57C78E8469c026',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 10,
+    lpSymbol: 'RBT-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0x3F8F14Dd4Ef2a2DBD3C1B87f96EdD028663c76b1',
+    },
+    tokenSymbol: 'RBT',
+    tokenAddresses: {
+      97: '',
+      56: '0x7595bb34bf391c3de0a6878a36d06223b2bfd404',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 11,
+    lpSymbol: 'BRRL-BNB LP',
+    lpAddresses: {
+      97: '',
+      56: '0xb9120b8881F577dB430966C6A8DdD0f993518295',
+    },
+    tokenSymbol: 'BRRL',
+    tokenAddresses: {
+      97: '',
+      56: '0xcbe73dd7E8FC74011136b837a59205801c45e6A1',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
 ]
 
 export default farms
