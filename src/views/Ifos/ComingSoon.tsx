@@ -63,7 +63,7 @@ const ComingSoon = () => {
               )}
             </Text>
             <Text mb={3}>
-              <LiquidityLink href="https://swap.koaladefi.finance/#/add/ETH/0xba26397cdff25f0d26e815d218ef3c77609ae7f1">
+              <LiquidityLink href="https://exchange.aztecswap.com/#/add/ETH/0xba26397cdff25f0d26e815d218ef3c77609ae7f1">
                 {TranslateString(506, 'Get CAKE-BNB LP >')}
               </LiquidityLink>
             </Text>
