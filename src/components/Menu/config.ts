@@ -14,15 +14,19 @@ const config: MenuEntry[] = [
   {
     label: 'Trade',
     icon: 'TradeIcon',
-    initialOpenState: true,
+    initialOpenState: false,
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.aztecswap.com/',
+        href: 'https://exchangev2.aztecswap.com/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.aztecswap.com/#/pool',
+        href: 'https://exchangev2.aztecswap.com/#/pool',
+      },
+      {
+        label: 'Exchange V1',
+        href: 'https://exchange.aztecswap.com/',
       },
     ],
   },

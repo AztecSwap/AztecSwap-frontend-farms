@@ -251,6 +251,111 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  {
+    pid: 16,
+    lpSymbol: 'GOLD-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0x14510e89567cB9F61d1bFb9dD49Dc67bfc787d4f', // GOLD-BNB LP
+    },
+    tokenSymbol: 'GOLD',
+    tokenAddresses: {
+      97: '',
+      56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 17,
+    lpSymbol: 'GOLD-BUSD',
+    lpAddresses: {
+      97: '',
+      56: '0x2A126fB038Fb3d721358Ef5D8eA730f7ed9FF93F', // GOLD-BUSD LP
+    },
+    tokenSymbol: 'GOLD',
+    tokenAddresses: {
+      97: '',
+      56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
+    },
+    quoteTokenSymbol: QuoteToken.BUSD,
+    quoteTokenAdresses: contracts.busd,
+  },
+  {
+    pid: 18,
+    lpSymbol: 'BRRL-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0xb6320c8e808b961ac015ed4e801ee999a0bb23fe',
+    },
+    tokenSymbol: 'BRRL',
+    tokenAddresses: {
+      97: '',
+      56: '0xcbe73dd7E8FC74011136b837a59205801c45e6A1',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 19,
+    lpSymbol: 'RBT-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0xc97b05f916a851df01049b804ceea6a8fdcda848',
+    },
+    tokenSymbol: 'RBT',
+    tokenAddresses: {
+      97: '',
+      56: '0x7595bb34bf391c3de0a6878a36d06223b2bfd404',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 20,
+    lpSymbol: 'TSB-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0xCbdb89D56E7501Ba22732cF549E796aBB6346B02', // TSB-BNB V2 LP
+    },
+    tokenSymbol: 'TSB',
+    tokenAddresses: {
+      97: '',
+      56: '0xA37F71f092F891757d23Dd350f57C78E8469c026',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 21,
+    lpSymbol: 'CAKE-BNB',
+    lpAddresses: {
+      97: '',
+      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0', // CAKE-BNB
+    },
+    tokenSymbol: 'CAKE',
+    tokenAddresses: {
+      97: '',
+      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 22,
+    lpSymbol: 'USDT-BUSD LP',
+    lpAddresses: {
+      97: '',
+      56: '0x7EFaEf62fDdCCa950418312c6C91Aef321375A00',
+    },
+    tokenSymbol: 'USDT',
+    tokenAddresses: {
+      97: '',
+      56: '0x55d398326f99059ff775485246999027b3197955',
+    },
+    quoteTokenSymbol: QuoteToken.BUSD,
+    quoteTokenAdresses: contracts.busd,
+  },
 ]
 
 export default farms
