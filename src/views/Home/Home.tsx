@@ -105,6 +105,7 @@ const Home: React.FC = () => {
             <TwitterCard />
             <CakeStats />
             <TotalValueLockedCard />
+            <WinCard />
           </Cards>
         </div>
       </Page>
