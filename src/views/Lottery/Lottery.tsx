@@ -61,12 +61,6 @@ const Lottery: React.FC = () => {
     <>
       <Hero />
       <Page>
-        <Wrapper>
-          <ButtonMenu activeIndex={activeIndex} onItemClick={handleClick} scale="sm" variant="subtle">
-            <ButtonMenuItem>{TranslateString(716, 'Next draw')}</ButtonMenuItem>
-            <ButtonMenuItem>{TranslateString(718, 'Past draws')}</ButtonMenuItem>
-          </ButtonMenu>
-        </Wrapper>
         <Divider />
         <PastLotteryDataContext.Provider
           value={{ historyError, historyData, mostRecentLotteryNumber, currentLotteryNumber }}

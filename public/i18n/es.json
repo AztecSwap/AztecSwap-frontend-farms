@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total LYPTUS quemados desde el lanzamiento"
+        "text": "Total GOLD quemados desde el lanzamiento"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Deposita LP Tokens para ganar LYPTUS"
+        "text": "Deposita LP Tokens para ganar GOLD"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Deposita LYPTUS, gana LYPTUS."
+        "text": "Deposita GOLD, gana GOLD."
       }
     },
     {
@@ -153,19 +153,19 @@
     {
       "data": {
         "stringId": 334,
-        "text": "¡Cada vez que deposites y retires tokens LYPTUS, el contrato recolectará automáticamente recompensas LYPTUS para ti!"
+        "text": "¡Cada vez que deposites y retires tokens GOLD, el contrato recolectará automáticamente recompensas GOLD para ti!"
       }
     },
     {
       "data": {
         "stringId": 338,
-        "text": "El Sous Chef está cocinando un regalo para todos los holders de LYPTUS"
+        "text": "El Sous Chef está cocinando un regalo para todos los holders de GOLD"
       }
     },
     {
       "data": {
         "stringId": 340,
-        "text": "LYPTUS Tokens Depositados"
+        "text": "GOLD Tokens Depositados"
       }
     },
     {
@@ -177,7 +177,7 @@
     {
       "data": {
         "stringId": 344,
-        "text": "Deposita your LYPTUS to earn tokens of new projects."
+        "text": "Deposita your GOLD to earn tokens of new projects."
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Precio de LYPTUS"
+        "text": "Precio de GOLD"
       }
     },
     {
@@ -237,13 +237,13 @@
     {
       "data": {
         "stringId": 364,
-        "text": "Total LYPTUS Depositados"
+        "text": "Total GOLD Depositados"
       }
     },
     {
       "data": {
         "stringId": 380,
-        "text": "1 LYPTUS = 1 LYPTUS"
+        "text": "1 GOLD = 1 GOLD"
       }
     },
     {
@@ -285,19 +285,19 @@
     {
       "data": {
         "stringId": 394,
-        "text": "Retirar LYPTUS"
+        "text": "Retirar GOLD"
       }
     },
     {
       "data": {
         "stringId": 400,
-        "text": "Los holders de LYPTUS dividen proporcionalmente el 25% de las emisiones de bloques de LYPTUS cada día (10 LYPTUS por bloque), las recompensas se distribuyen en cada bloque."
+        "text": "Los holders de GOLD dividen proporcionalmente el 25% de las emisiones de bloques de GOLD cada día (10 GOLD por bloque), las recompensas se distribuyen en cada bloque."
       }
     },
     {
       "data": {
         "stringId": 402,
-        "text": "Deposita LYPTUS para ganar otros tokens."
+        "text": "Deposita GOLD para ganar otros tokens."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% LYPTUS"
+        "text": "%num% GOLD"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend LYPTUS to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GOLD to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% LYPTUS Available"
+        "text": "%num% GOLD Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 LYPTUS"
+        "text": "Your amount must be a multiple of 10 GOLD"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 LYPTUS"
+        "text": "1 Ticket = 10 GOLD"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your LYPTUS cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your GOLD cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "LYPTUS prizes to be claimed"
+        "text": "GOLD prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve LYPTUS"
+        "text": "Approve GOLD"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "LYPTUS holders proportionally split 40% of LYPTUS block emissions each day (10 LYPTUS per block), Rewards are distributed each block."
+        "text": "GOLD holders proportionally split 40% of GOLD block emissions each day (10 GOLD per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using LYPTUS-BNB LP tokens, which means you need to stake equal amounts of LYPTUS and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GOLD-BNB LP tokens, which means you need to stake equal amounts of GOLD and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get LYPTUS-BNB LP >"
+        "text": "Get GOLD-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Koala DeFi Finance burns the LYPTUS."
+        "text": "The project gets the BNB, Koala DeFi Finance burns the GOLD."
       }
     },
     {
@@ -657,13 +657,13 @@
     {
       "data": {
         "stringId": 538,
-        "text": "LYPTUS saboreados por Koalas"
+        "text": "GOLD saboreados por Koalas"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "Nuevos LYPTUS\/bloque"
+        "text": "Nuevos GOLD\/bloque"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "LYPTUS a Cosechar"
+        "text": "GOLD a Cosechar"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "LYPTUS en Billetera"
+        "text": "GOLD en Billetera"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting LYPTUS"
+        "text": "Collecting GOLD"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "LYPTUS to Collect"
+        "text": "GOLD to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Deposita LYPTUS para ganar nuevos Tokens."
+        "text": "Deposita GOLD para ganar nuevos Tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "LYPTUS to burn (USD)"
+        "text": "GOLD to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy LYPTUS and BNB tokens"
+        "text": "Buy GOLD and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get LYPTUS-BNB LP Tokens by adding LYPTUS and BNB liquidity"
+        "text": "Get GOLD-BNB LP Tokens by adding GOLD and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your LYPTUS-LP Tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GOLD-LP Tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for LYPTUS, or keep for your collection!"
+        "text": "Trade in for GOLD, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive LYPTUS, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GOLD, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a LYPTUS value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a GOLD value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for LYPTUS"
+        "text": "Trade in for GOLD"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Deposita LP Tokens para ganar LYPTUS"
+        "text": "Deposita LP Tokens para ganar GOLD"
       }
     },
     {
@@ -1143,13 +1143,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The LYPTUS Lottery"
+        "text": "Moctezuma Sacrifice"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with LYPTUS"
+        "text": "Buy tickets with GOLD"
       }
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "La tarifa de depósito se utilizará para recomprar LYPTUS"
+        "text": "La tarifa de depósito se utilizará para recomprar GOLD"
       }
     },
     {
@@ -1239,7 +1239,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Deposita Tokens para ganar LYPTUS"
+        "text": "Deposita Tokens para ganar GOLD"
       }
     },
     {

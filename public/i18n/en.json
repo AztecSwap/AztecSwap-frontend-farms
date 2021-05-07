@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total LYPTUS burned since launch"
+        "text": "Total GOLD burned since launch"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake LYPTUS tokens, the contract will automatically harvest LYPTUS rewards for you!"
+        "text": "Every time you stake and unstake GOLD tokens, the contract will automatically harvest GOLD rewards for you!"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 LYPTUS = 1 SYRUP"
+        "text": "1 GOLD = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of LYPTUS block emissions each day (10 LYPTUS per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GOLD block emissions each day (10 GOLD per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% LYPTUS"
+        "text": "%num% GOLD"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend LYPTUS to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GOLD to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% LYPTUS Available"
+        "text": "%num% GOLD Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 LYPTUS"
+        "text": "Your amount must be a multiple of 10 GOLD"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 LYPTUS"
+        "text": "1 Ticket = 10 GOLD"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your LYPTUS cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your GOLD cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "LYPTUS prizes to be claimed"
+        "text": "GOLD prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve LYPTUS"
+        "text": "Approve GOLD"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of LYPTUS block emissions each day (10 LYPTUS per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of GOLD block emissions each day (10 GOLD per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,13 +567,13 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using LYPTUS-BNB LP tokens, which means you need to stake equal amounts of LYPTUS and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GOLD-BNB LP tokens, which means you need to stake equal amounts of GOLD and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get LYPTUS-BNB LP >"
+        "text": "Get GOLD-BNB LP >"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New LYPTUS\/block"
+        "text": "New GOLD\/block"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "LYPTUS to Collect"
+        "text": "GOLD to Collect"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake LYPTUS to earn new tokens."
+        "text": "Stake GOLD to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "LYPTUS to burn (USD)"
+        "text": "GOLD to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest LYPTUS rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GOLD rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy LYPTUS and BNB tokens"
+        "text": "Buy GOLD and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get LYPTUS-BNB LP tokens by adding LYPTUS and BNB liquidity"
+        "text": "Get GOLD-BNB LP tokens by adding GOLD and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your LYPTUS-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GOLD-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for LYPTUS, or keep for your collection!"
+        "text": "Trade in for GOLD, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive LYPTUS, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GOLD, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a LYPTUS value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a GOLD value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for LYPTUS"
+        "text": "Trade in for GOLD"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn LYPTUS"
+        "text": "Stake LP tokens to earn GOLD"
       }
     },
     {
@@ -1143,13 +1143,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The LYPTUS Lottery"
+        "text": "Moctezuma Sacrifice"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with LYPTUS"
+        "text": "Buy tickets with GOLD"
       }
     },
     {

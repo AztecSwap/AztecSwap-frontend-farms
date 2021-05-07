@@ -43,13 +43,8 @@ const LotteryProgress = () => {
 
   return (
     <ProgressWrapper>
-      <Progress primaryStep={getLotteryDrawStep(currentMillis)} secondaryStep={getTicketSaleStep()} showProgressBunny />
       <TopTextWrapper>
-        <StyledPrimaryText fontSize="20px" bold color="contrast">
-          {lotteryHasDrawn ? timeUntilTicketSale : timeUntilLotteryDraw}
-        </StyledPrimaryText>
-        <Text fontSize="20px" bold color="invertedContrast">
-          {lotteryHasDrawn ? TranslateString(0, 'Until ticket sale') : TranslateString(0, 'Until lottery draw')}
+        <Text fontSize="20px" bold color="invertedContrast">GOLD sacrifice every evening.
         </Text>
       </TopTextWrapper>
       {lotteryHasDrawn && (

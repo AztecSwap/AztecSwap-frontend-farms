@@ -61,15 +61,11 @@ const TicketCard: React.FC<CardProps> = ({ isSecondCard = false }) => {
     <StyledCard isSecondCard={isSecondCard}>
       <CardBody>
         <CardHeader>
-          <IconWrapper>
-            <TicketRound />
-          </IconWrapper>
           {lotteryHasDrawn ? (
             <TicketCountWrapper>
               <Text fontSize="14px" color="textSubtle">
                 {TranslateString(870, 'Until ticket sale:')}
               </Text>
-              <Heading size="lg">{timeUntilTicketSale}</Heading>
             </TicketCountWrapper>
           ) : (
             <TicketCountWrapper>

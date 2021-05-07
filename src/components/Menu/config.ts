@@ -40,6 +40,11 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://www.aztecswap.com/pools',
   },
+   {
+     label: 'Moctezuma Sacrifice',
+     icon: 'TicketIcon',
+     href: '/lottery',
+   },
   {
     label: 'Aztec Gold Token',
     icon: 'InfoIcon',
