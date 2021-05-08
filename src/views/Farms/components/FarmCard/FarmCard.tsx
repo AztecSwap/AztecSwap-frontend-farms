@@ -205,7 +205,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
           lpTokenPriceFormated={lpTokenPriceFormated}
           lpLabel={lpLabel}
           addLiquidityUrl={farm.isTokenOnly ?
-            `https://exchangev2.aztecswap.com/#/swap/${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+            `https://exchangev2.aztecswap.com/#/swap?outputCurrency=${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
             :
           `https://exchangev2.aztecswap.com/#/add/${liquidityUrlPathParts}`
         }
