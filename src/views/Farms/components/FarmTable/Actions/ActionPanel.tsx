@@ -172,7 +172,11 @@ const ActionPanel: React.FunctionComponent<ActionPanelProps> = ({ details, apr, 
       <InfoContainer>
         <StakeContainer>
           Stake:
-          <StyledLinkExternal href={`https://exchange.aztecswap.com/#/add/${liquidityUrlPathParts}`}>
+          <StyledLinkExternal href={farm.isTokenOnly ?
+            `https://exchangev2.aztecswap.com/#/swap/${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+            :
+          `https://exchangev2.aztecswap.com/#/add/${liquidityUrlPathParts}`
+        }>
             {lpLabel}
           </StyledLinkExternal>
         </StakeContainer>
